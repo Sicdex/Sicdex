@@ -15,7 +15,7 @@
 </div>
 
 
-### My example (open source):
+### Web example (open source):
 + https://github.com/sicdex-back-end
 + https://github.com/sicdex-front-end
 + https://github.com/sicdex-full-stack
