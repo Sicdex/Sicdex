@@ -23,7 +23,7 @@
 + https://github.com/octarine-public
 + https://github.com/sicdex-other-develop
 
-<div id="footer">
+<div id="footer" align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Sicdex&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sicdex&theme=react&hide_border=true" alt="streak" />
 </div>
