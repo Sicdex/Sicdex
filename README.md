@@ -18,7 +18,6 @@
 + https://github.com/sicdex-back-end
 + https://github.com/sicdex-front-end
 + https://github.com/sicdex-full-stack
-+ 
 
 <span align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Sicdex&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats" />
