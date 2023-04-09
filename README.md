@@ -1,16 +1,30 @@
-### Hi there 👋
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=sicdex&label=Profile%20views&color=0e75b6&style=flat" alt="sicdex" /> </p>
+<h1 align="center"> < Hi there 👋 /> </h1>
 
-<!--
-**Sicdex/Sicdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e473nho6yps4f9kgnqq2lrv80z7c9vng5lsc10buoe5&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="https://t.me/slcdex" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://discord.gg/SicdeX#7902" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My example (open source):
++ https://github.com/sicdex-back-end
++ https://github.com/sicdex-front-end
++ https://github.com/sicdex-full-stack
+
+### Other works / fork (open source):
++ https://github.com/octarine-public
++ https://github.com/sicdex-other-develop
+
+<div id="footer">
+   <img src="https://github-readme-stats.vercel.app/api?username=Sicdex&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sicdex&theme=react&hide_border=true" alt="streak" />
+</div>
